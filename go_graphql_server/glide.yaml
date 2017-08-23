@@ -1,0 +1,6 @@
+package: .
+license: MIT
+owners:
+  - name: mattun
+import:
+  - package: github.com/graphql-go/graphql

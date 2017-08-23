@@ -1,0 +1,17 @@
+hash: 56e517c9bde19b06007dfc2f069e94deccaa8914d443890fc0b62e9199a889a6
+updated: 2017-08-23T22:27:56.031883275+09:00
+imports:
+- name: github.com/graphql-go/graphql
+  version: 105a6c24e6fdaf4008e56d947115a1a13dc46430
+  subpackages:
+  - gqlerrors
+  - language/ast
+  - language/kinds
+  - language/lexer
+  - language/location
+  - language/parser
+  - language/printer
+  - language/source
+  - language/typeInfo
+  - language/visitor
+testImports: []
